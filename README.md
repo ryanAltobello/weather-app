@@ -1,7 +1,7 @@
 # 5-Day Forecast
 A 5-day forecasting weather app built using [create-react-app](https://github.com/facebook/create-react-app) and [Redux](https://redux.js.org/)
 
-Live app: [Weather App](https://ryanaltobello.com/weather-app/weather.html)
+[Live App](https://ryanaltobello.github.io/weather-app)
 
 ### APIs used
 
